@@ -7,7 +7,7 @@
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark" alt="Apo" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark" alt="Apo" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozin)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html" alt="Apo />
 </p>
 <hr>
 
