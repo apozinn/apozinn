@@ -4,7 +4,7 @@
 
 #
 
-<div align="center">
+<div style="display: inline-block; align: center" align="center">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
@@ -28,7 +28,7 @@
 
 #
 
-<div>
+<div style="display: inline-block;" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=8400ff&text_color=fff" alt="apozinn" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&exclude_repo=discord-bot-cpp&bg_color=8400ff&text_color=fff&layout=compact" alt="apozinn" />
