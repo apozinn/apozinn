@@ -28,11 +28,15 @@
 
 #
 
-<div style="display: inline-block;" align="center">
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=8400ff&text_color=fff" alt="apozinn" />
+</div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&exclude_repo=discord-bot-cpp&bg_color=8400ff&text_color=fff&layout=compact" alt="apozinn" />
+</div>
 
+<div align="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=apozinn&theme=rose&mode=weekly&background=8400FF&sideLabels=FFFFFF&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF&fire=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="apozinn" />
 </div>
 
