@@ -28,7 +28,7 @@
 
 #
 
-<div align="center">
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=8400ff&text_color=fff" alt="apozinn" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&exclude_repo=discord-bot-cpp&bg_color=8400ff&text_color=fff&layout=compact" alt="apozinn" />
