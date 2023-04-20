@@ -1,4 +1,4 @@
-<p align="center">
+<p>
 👋 Hello everybody! welcome to my github, here you will find some of my personal and professional projects, currently my focus is on desktop development, but for a long time I developed for web and mobile, being fullstack in both. My main skills are in javascript, but I'm still in the process of learning c++. Hope you like what you see!
 </p>
 
@@ -16,27 +16,30 @@
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white">
 <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </div>
+
 
 #
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=8400ff&text_color=fff" alt="apozinn" />
+<img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=000&text_color=fff" alt="apozinn" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=8400ff&text_color=fff&layout=compact" alt="apozinn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&exclude_repo=discord-bot-cpp&bg_color=000&text_color=fff&layout=compact" alt="apozinn" />
 </div>
 
 <div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=apozinn&theme=rose&mode=weekly&background=8400FF&sideLabels=FFFFFF&stroke=FFFFFF&ring=FFFFFF&currStreakNum=FFFFFF&border=FFFFFF&fire=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF" alt="apozinn" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=apozinn&theme=dark&background=000000&stroke=00EBC2&ring=00EBC2" alt="apozinn" />
 </div>
 
 #
 
-<p align="center">Soon I hope to be able to say that I develop in my own code editor 😉</p>
+<p>Soon I hope to be able to say that I develop in my own code editor 😉</p>
