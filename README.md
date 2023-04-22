@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&exclude_repo=discord-bot-cpp&bg_color=000&text_color=fff&layout=compact" alt="apozinn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact" alt="apozinn" />
 </div>
 
 <div align="center">
