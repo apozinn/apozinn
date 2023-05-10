@@ -36,10 +36,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact" alt="apozinn" />
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=apozinn&theme=dark&background=000000&stroke=00EBC2&ring=00EBC2" alt="apozinn" />
-</div>
-
 #
 
 <p>Soon I hope to be able to say that I develop in my own code editor 😉</p>
