@@ -33,5 +33,5 @@
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact&exclude_repo="axion" alt="apozinn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact&exclude_repo=["axion"] alt="apozinn" />
 </div>
