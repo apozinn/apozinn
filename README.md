@@ -25,12 +25,7 @@
 <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
 </div>
 
-
 #
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=apozinn&show_icons=true&theme=dark&count_private=true&bg_color=000&text_color=fff" alt="apozinn" />
-</div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact&exclude_repo=axion" alt="apozinn" />
