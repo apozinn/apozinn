@@ -1,9 +1,3 @@
-<p>
-👋 Hello everybody! welcome to my github, here you will find some of my personal and professional projects, currently my focus is on desktop development, but for a long time I developed for web and mobile, being fullstack in both. My main skills are in javascript, but I'm still in the process of learning c++. Hope you like what you see!
-</p>
-
-#
-
 <div style="display: inline-block; align: center" align="center">
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37">
