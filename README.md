@@ -49,7 +49,7 @@ Focuses on geolocation accuracy and efficient background execution.
 ### Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apozinn&theme=dark&count_private=true&bg_color=000&text_color=fff&layout=compact" alt="apozinn" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=apozinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="apozinn" />
 </div>
 
 ---
