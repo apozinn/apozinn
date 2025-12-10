@@ -43,16 +43,6 @@ Focuses on geolocation accuracy and efficient background execution.
 🔗 [View on GitHub »](https://github.com/apozinn/acordai)
 
 ---
-
-<div align="center">
-
-### Languages
-
-<div align="center">
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=apozinn&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="apozinn" />
-</div>
-
----
 </div>
 
 <div align="center">
