@@ -38,7 +38,7 @@ Optimized for smooth communication and modern UX.
 ---
 
 #### 📍 **Zegen**
-Zegen is an open-source mobile application built with Expo (React Native) designed to ensure you never miss your stop again. It allows users to select a destination directly on the map and automatically triggers a high-priority alarm notification when they are approaching that location — ideal for commuters who might fall asleep on buses, trains, or subways.
+Zegen is an open-source mobile application built with Expo (React Native) designed to ensure you never miss your stop again.
 🔗 [View on GitHub »](https://github.com/apozinn/zegen)
 
 ---
