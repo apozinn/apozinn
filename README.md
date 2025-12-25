@@ -38,7 +38,8 @@ Optimized for smooth communication and modern UX.
 ---
 
 #### 📍 **Zegen**
-Zegen is an open-source mobile application built with Expo (React Native) designed to ensure you never miss your stop again.
+A **location-based alarm app** built with **React Native**, triggering alerts based on user position.  
+Focuses on geolocation accuracy and efficient background execution.  
 🔗 [View on GitHub »](https://github.com/apozinn/zegen)
 
 ---
