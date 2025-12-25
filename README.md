@@ -37,10 +37,9 @@ Optimized for smooth communication and modern UX.
 
 ---
 
-#### 📍 **Acordaí**
-A **location-based alarm app** built with **React Native**, triggering alerts based on user position.  
-Focuses on geolocation accuracy and efficient background execution.  
-🔗 [View on GitHub »](https://github.com/apozinn/acordai)
+#### 📍 **Zegen**
+Zegen is an open-source mobile application built with Expo (React Native) designed to ensure you never miss your stop again. It allows users to select a destination directly on the map and automatically triggers a high-priority alarm notification when they are approaching that location — ideal for commuters who might fall asleep on buses, trains, or subways.
+🔗 [View on GitHub »](https://github.com/apozinn/zegen)
 
 ---
 </div>
